@@ -10,7 +10,7 @@
 - Backend Web Development: PHP
 
 # :iphone: contact
-- 📫 you can reach me at gwynethavpereira@gmail.com
+- 📫 gwynethavpereira@gmail.com
 
 <!---
 Gwyneth-Pereira/Gwyneth-Pereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
