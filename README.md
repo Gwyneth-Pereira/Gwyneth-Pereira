@@ -9,7 +9,7 @@
 - Front End Web Development: HTML, CSS, JavaScript, AJAX, Bootstrap 4, Bootstrap 5, SwiperJS, Angular.
 - Backend Web Development: PHP
 
-# contact
+# :iphone: contact
 - 📫 you can reach me at gwynethavpereira@gmail.com
 
 <!---
